@@ -1,0 +1,16 @@
+{
+  "images" : [
+    {
+      "compression-type" : "gpu-optimized-smallest",
+      "filename" : "image-placeholder.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "compression-type" : "gpu-optimized-smallest"
+  }
+}
